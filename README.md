@@ -25,7 +25,10 @@
 ---
 
 ### 🏆 Certifications  
-  ![Google Cloud Certified - Associate Cloud Engineer](https://img.shields.io/badge/-Associate%20Cloud%20Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Google Cloud Certified - Cloud Digital Leader](https://img.shields.io/badge/-Cloud%20Digital%20Leader-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Google Cloud Arcade Champion](https://img.shields.io/badge/-Arcade%20Champion-4285F4?style=flat&logo=google-cloud&logoColor=white) ![AWS Knowledge - Cloud Essentials](https://img.shields.io/badge/-AWS%20Cloud%20Essentials-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+[![Google Cloud Certified - Associate Cloud Engineer](https://img.shields.io/badge/-Associate%20Cloud%20Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/336d638b-1e6c-4d7d-b2d7-32afc8bb268c/public_url)  
+[![Google Cloud Certified - Cloud Digital Leader](https://img.shields.io/badge/-Cloud%20Digital%20Leader-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/5600c4d9-9117-45a3-ae14-141fcef80fb3/public_url)  
+[![Google Cloud Arcade Champion](https://img.shields.io/badge/-Arcade%20Champion-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.linkedin.com/posts/activity-7244325682682494976-DRrZ?utm_source=share&utm_medium=member_desktop)  [![AWS Knowledge - Cloud Essentials](https://img.shields.io/badge/-AWS%20Cloud%20Essentials-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/cc558d32-8ba5-465e-b0e2-23ae5c952ee8/public_url)
+
 
 
 ### 🚀 Projects
